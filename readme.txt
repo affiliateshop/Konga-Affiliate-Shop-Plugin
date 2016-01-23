@@ -2,7 +2,7 @@
 Contributors: Agbonghama Collins
 Tags: shop, shops, affiliate, affiliate shop, affiliate shops, konga, Nigeria, store, affiliate store
 Requires at least: 3.6.1
-Tested up to: 4.4
+Tested up to: 4.4.1
 Stable tag: 1.1.2
 License: GPL-2.0+
 
